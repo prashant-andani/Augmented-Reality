@@ -1,4 +1,4 @@
-# Web Augmenter Reality
+# Web Augmented Reality
 
 > A working Web AR App
 
