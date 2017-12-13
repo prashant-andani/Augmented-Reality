@@ -1,6 +1,6 @@
 # Web Augmented Reality
 
-> A working Web AR App
+> A working Web AR App buit with AFrame, ARToolkit https://www.artoolkit.org/
 
 ## Build Setup
 
